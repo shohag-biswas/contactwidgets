@@ -58,7 +58,7 @@ class contacto extends WP_Widget{
 			  width="600"
 			  height="450"
 			  frameborder="0" style="border:0"
-			  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyA8srnsO8XMaP-LDJUuxOeCVrMLZvfQ83M&q=<?php $address ?>"
+			  src="https://www.google.com/maps/embed/v1/place?key=add here your google API&q=<?php $address ?>"
 			  allowfullscreen>
 			</iframe> <?php
 			
