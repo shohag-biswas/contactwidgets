@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: Contacto
-Plugin URI: http://shohag.me/genpro
+Plugin URI: http://shohag.me/
 Description: Contact details for WordPress
 Author: Shohag Biswas
 Version: 1.0
